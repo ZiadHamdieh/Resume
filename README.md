@@ -1,3 +1,3 @@
 # Résumé
 
-![](/resume.pdf)
+![](/screenshot/resume.jpg)
